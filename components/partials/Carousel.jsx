@@ -58,7 +58,7 @@ const data = [
     {
         category: "2",
         title: "Нефоры",
-        src: "/carousel2.jpg",
+        src: "/carousel2.jpeg",
         content: <></>,
     },
     {
@@ -77,7 +77,7 @@ const data = [
     {
         category: "5",
         title: "Бомжы в ЮГ-2",
-        src: "/carousel5.jpg",
+        src: "/carousel5.jpeg",
         content: <></>,
     },
     {
@@ -89,7 +89,7 @@ const data = [
     {
         category: "7",
         title: "Typical kanykey:",
-        src: "/carousel7.jpg",
+        src: "/carousel7.jpeg",
         content: <></>,
     },
 ];
