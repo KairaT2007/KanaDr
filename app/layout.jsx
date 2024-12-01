@@ -9,7 +9,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className="bg-cover bg-center md:bg-fixed"
+        className="bg-contain md:bg-cover bg-center md:bg-fixed"
         style={{ backgroundImage: "url('/rBF.png')" }}
       >
         {children}
